@@ -5,10 +5,9 @@
 
 /data/*
 !/data/index.html
-!/data/Tmp/index.html
+!/data/tmp/index.html
 
 /vendor/*
-!/vendor/index.html
 
 /composer.lock
 .DS_store
