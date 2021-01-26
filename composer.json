@@ -11,12 +11,12 @@
         }
     ],
     "require": {
-        "be/mf": "~1.0"
+        "be/mf": "~2.1"
     },
     "autoload": {
         "psr-4": {
-            "Be\\Cache\\": "cache/",
-            "Be\\Data\\": "data/"
+            "Be\\Mf\\Cache\\": "cache/",
+            "Be\\Mf\\Data\\": "data/"
         }
     }
 }

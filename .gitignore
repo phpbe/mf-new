@@ -5,7 +5,6 @@
 
 /data/*
 !/data/index.html
-!/data/tmp/index.html
 
 /vendor/*
 
